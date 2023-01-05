@@ -13,6 +13,7 @@ public class OddOrEven
     public static void CheckOddOrEven() 
     {
        int x;
+       System.out.println("silakan input angka :");
       Scanner in = new Scanner(System.in);
       x = in.nextInt();
  
